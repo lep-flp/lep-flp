@@ -13,8 +13,7 @@
   <img src="https://user-images.githubusercontent.com/89125161/132889935-a559cdad-bfbe-4cdc-b95c-688172c9d5c0.png" height="50">&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/89125161/132889948-65e18c2a-8a74-4c3d-9a7e-6299e77da230.png" height="50">&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/89125161/132889927-1be821f0-4688-4757-9a0e-3b38d678553d.png" height="50">&nbsp;&nbsp;&nbsp;
-<h4>Database Management Systems</h4> 
-  
+<h4>Database Systems</h4> 
   <img src="https://user-images.githubusercontent.com/89125161/129862315-92046e75-0046-4e1f-a543-cfe16f8f7fa6.png" height="50">&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/89125161/129862796-5e011df3-07b3-4d91-825d-d1c923361066.png" height="50">&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/89125161/132891049-5c206fc4-8683-4938-b434-250cba8dd5b4.png" height="50">&nbsp;&nbsp;&nbsp;
