@@ -1,16 +1,32 @@
 <h1 style="font-size:100px"> Hi, I’m lep! <img src="https://user-images.githubusercontent.com/89125161/129862226-02689496-ad99-40b9-ab4c-beafc2856d45.gif" height="50"> </h1>
 <h2>My Skills
 :</h2>
-<h3>Programming</h3>
-<div>
-  <img src="https://user-images.githubusercontent.com/89125161/129858692-6c1570bf-0c7b-4348-8d5f-effa1af1838c.png" height="100">        <img src="https://user-images.githubusercontent.com/89125161/129858993-e44e875c-e0b0-47bd-8a18-0e9721c384a2.png" height="100">        <img src="https://user-images.githubusercontent.com/89125161/129859123-0f5ebf0e-8701-4040-a638-c9a7021b12c5.png" height="100">
-<h3>Database</h3>
-   <img src="https://user-images.githubusercontent.com/89125161/129862315-92046e75-0046-4e1f-a543-cfe16f8f7fa6.png" height="100">        <img src="https://user-images.githubusercontent.com/89125161/129862796-5e011df3-07b3-4d91-825d-d1c923361066.png" height="100">
-<h3>IDE</h3>
-  <img src="https://user-images.githubusercontent.com/89125161/129863772-a770109c-9642-4fa1-8df9-5a2d1612ad39.png" height="100">        <img src="https://user-images.githubusercontent.com/89125161/129863752-535a5063-9737-41eb-bc50-53fda809cf47.png" height="80">
 
-<!---
-lep-flp/lep-flp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h4>Programming Languages</h4>
+<div>
+  <img src="https://user-images.githubusercontent.com/89125161/132885019-38be4bdf-78c8-46d8-bfed-85ad2f967de3.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132887055-980ab4b9-6721-4184-a78a-2d6e9f9cdb69.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132885477-31c04211-a02b-4bc8-a2e5-ab15b24e3487.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132890659-f5b48871-b37f-4aa6-911c-952a7c2a8230.png" height="50">&nbsp;&nbsp;&nbsp;
+<h4>Markup and Style Sheet Languages</h4>
+  <img src="https://user-images.githubusercontent.com/89125161/132889935-a559cdad-bfbe-4cdc-b95c-688172c9d5c0.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132889948-65e18c2a-8a74-4c3d-9a7e-6299e77da230.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132889927-1be821f0-4688-4757-9a0e-3b38d678553d.png" height="50">&nbsp;&nbsp;&nbsp;
+<h4>Database Management Systems</h4> 
+  
+  <img src="https://user-images.githubusercontent.com/89125161/129862315-92046e75-0046-4e1f-a543-cfe16f8f7fa6.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/129862796-5e011df3-07b3-4d91-825d-d1c923361066.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132891049-5c206fc4-8683-4938-b434-250cba8dd5b4.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132889215-b3cb56c5-ce43-4036-b7b7-afba2d3f4776.png" height="50">&nbsp;&nbsp;&nbsp;
+<h4>Tools and framework</h4>
+  <img src="https://user-images.githubusercontent.com/89125161/132887685-257b0831-5149-4fd0-9061-36f4fdc99760.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132888917-e6decb91-efd0-49e3-807a-c26794592504.png" height="40">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132892602-f1883899-1f8c-45f5-9da1-c1b6846909bd.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/132888929-d0419e10-1d3f-4462-93db-7b5dd1a7c679.png" height="40">&nbsp;&nbsp;&nbsp;
+<h4>IDE</h4>
+  <img src="https://user-images.githubusercontent.com/89125161/132889140-3bc508a2-2514-4032-8775-b6b446db1ef3.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/129863772-a770109c-9642-4fa1-8df9-5a2d1612ad39.png" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/89125161/129863752-535a5063-9737-41eb-bc50-53fda809cf47.png" height="40">&nbsp;&nbsp;&nbsp;
+
 
