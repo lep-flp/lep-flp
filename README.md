@@ -20,7 +20,6 @@
     <img src="https://user-images.githubusercontent.com/89125161/132887685-257b0831-5149-4fd0-9061-36f4fdc99760.png" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/89125161/132888917-e6decb91-efd0-49e3-807a-c26794592504.png" height="40">&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/89125161/132892602-f1883899-1f8c-45f5-9da1-c1b6846909bd.png" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/89125161/132888929-d0419e10-1d3f-4462-93db-7b5dd1a7c679.png" height="40">&nbsp;&nbsp;&nbsp;
   <h4>IDE</h4>
     <img src="https://user-images.githubusercontent.com/89125161/132889140-3bc508a2-2514-4032-8775-b6b446db1ef3.png" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/89125161/129863772-a770109c-9642-4fa1-8df9-5a2d1612ad39.png" height="50">&nbsp;&nbsp;&nbsp;
